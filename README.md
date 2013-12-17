@@ -1,4 +1,4 @@
 vertexjs
 ========
 
-Multi-threaded javascript environment
+Multi-threaded javascript web-server environment
